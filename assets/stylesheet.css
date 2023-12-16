@@ -464,8 +464,8 @@ aside {
    z-index: 1;
 }
 #section1 {
-    height: 350px;
-    width: 2000px;
+ height: 280px;
+  width: 2000px;
     display: flex;
     align-items: center;
     justify-content: center;
