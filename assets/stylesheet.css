@@ -833,8 +833,8 @@ aside {
 
 }
 #section1 {
-   height: 400px;
-    width: 1500px;
+ height: 280px;
+  width: 1500px;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -1192,8 +1192,8 @@ aside {
 
 }
 #section1 {
-    height: 390px;
-    width: 1500px;
+ height: 280px;
+  width: 1500px;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -1624,7 +1624,7 @@ aside {
 
 }
 #section1 {
-  height: 400px;
+ height: 280px;
   width: 850px;
     display: flex;
     align-items: center;
@@ -1994,7 +1994,7 @@ aside {
    z-index: 1;
 }
 #section1 {
-  height: 280px;
+ height: 280px;
   width: 650px;
     display: flex;
     align-items: center;
@@ -2362,7 +2362,7 @@ aside {
    z-index: 1;
 }
 #section1 {
-  height: 585px;
+ height: 280px;
   width: 1650px;
     display: flex;
     align-items: center;
